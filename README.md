@@ -1,5 +1,8 @@
 # **機器學習/深度學習 相關教學資源**
 
+## NCCU [自學課程]成為python數據分析達人的第一課
+### http://moocs.nccu.edu.tw/course/123/intro
+### https://github.com/yenlung/Python-3-Data-Analysis-Basics
 ## Tensorflow2.0 最強教學！
 ### https://zhuanlan.zhihu.com/c_109102186304362496
 
