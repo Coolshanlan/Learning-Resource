@@ -1,5 +1,8 @@
 # **機器學習/深度學習 相關教學資源**
 
+## 吐血推薦，B站最強學習資源彙總（數據科學，機器學習，python）
+### https://bangqu.com/8me24e.html?fbclid=IwAR2ZHJHB6H3QSGNia6z1ty6ZCVEg0RRg4KRcIXnJ4c1uu6zoGOWoXQMiI4U
+
 ## NCCU [自學課程]成為python數據分析達人的第一課
 ### http://moocs.nccu.edu.tw/course/123/intro
 ### https://github.com/yenlung/Python-3-Data-Analysis-Basics
