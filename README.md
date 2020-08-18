@@ -49,3 +49,6 @@
 # 作業系統
 ## IT 30Days 作業系統學習
 ### https://ithelp.ithome.com.tw/users/20112132/ironman/1884
+
+## Bag of Tricks for Image Classification with Convolutional Neural Networks
+### https://arxiv.org/pdf/1812.01187v2.pdf
