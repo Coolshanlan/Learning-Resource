@@ -31,11 +31,12 @@
 - [台大深度學習教學](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
 
 - [Deep Learning for Computer Vision](https://dvl.in.tum.de/teaching/)
-
+- [CNN 技巧統整《Bag of Tricks for Image Classification with Convolution Neural Networks》](https://arxiv.org/pdf/1812.01187v2.pdf)
+- [SEnet](https://medium.com/@hupinwei/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-senet-squeeze-and-excitation-networks-52ad0a7fd307)
+- [pytorch CBAM in Resnet](https://zhuanlan.zhihu.com/p/99261200)
+- [Regularization L2](https://blog.csdn.net/guyuealian/article/details/88426648)
 
 - 看論文可以找 **《XX 論文筆記》**
 
 # 作業系統
 - [IT 30Days 作業系統學習](https://ithelp.ithome.com.tw/users/20112132/ironman/1884)
-
-- [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187v2.pdf)
