@@ -33,8 +33,10 @@
 - [Deep Learning for Computer Vision](https://dvl.in.tum.de/teaching/)
 - [CNN 技巧統整《Bag of Tricks for Image Classification with Convolution Neural Networks》](https://arxiv.org/pdf/1812.01187v2.pdf)
 - [SEnet](https://medium.com/@hupinwei/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-senet-squeeze-and-excitation-networks-52ad0a7fd307)
+- [SKNet](https://www.twblogs.net/a/5cc87d09bd9eee1ac30b7d64)
 - [pytorch CBAM in Resnet](https://zhuanlan.zhihu.com/p/99261200)
 - [Regularization L2](https://blog.csdn.net/guyuealian/article/details/88426648)
+- [打開黑盒子 Open Black Boxes 2: Grad-CAM](https://medium.com/jarvis-toward-intelligence/%E6%89%93%E9%96%8B%E9%BB%91%E7%9B%92%E5%AD%90-open-black-boxes-2-1ec6a313f5e9)
 
 - 看論文可以找 **《XX 論文筆記》**
 
