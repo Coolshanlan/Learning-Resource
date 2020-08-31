@@ -35,6 +35,8 @@
 - [SEnet](https://medium.com/@hupinwei/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-senet-squeeze-and-excitation-networks-52ad0a7fd307)
 - [SKNet](https://www.twblogs.net/a/5cc87d09bd9eee1ac30b7d64)
 - [SCSENet(cSE、sSE、scSE)](https://blog.csdn.net/XX_123_1_RJ/article/details/87928935)
+- [ResNeXt](https://medium.com/@hupinwei/resnext%E7%B6%B2%E8%B7%AF-31c76e4d3409)
+  - [Group Convolution](https://blog.csdn.net/zhangjunhit/article/details/90763234?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~first_rank_v2~rank_v25-1-90763234.nonecase&utm_term=%E5%88%86%E7%BB%84%E5%8D%B7%E7%A7%AF)
 - [pytorch CBAM in Resnet](https://zhuanlan.zhihu.com/p/99261200)
 - [Regularization L2](https://blog.csdn.net/guyuealian/article/details/88426648)
 - [打開黑盒子 Open Black Boxes 2: Grad-CAM](https://medium.com/jarvis-toward-intelligence/%E6%89%93%E9%96%8B%E9%BB%91%E7%9B%92%E5%AD%90-open-black-boxes-2-1ec6a313f5e9)
