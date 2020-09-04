@@ -38,10 +38,11 @@
 - [ResNeXt](https://medium.com/@hupinwei/resnext%E7%B6%B2%E8%B7%AF-31c76e4d3409)
   - [Group Convolution](https://blog.csdn.net/zhangjunhit/article/details/90763234?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~first_rank_v2~rank_v25-1-90763234.nonecase&utm_term=%E5%88%86%E7%BB%84%E5%8D%B7%E7%A7%AF)
 - [Attention in CNN](https://zhuanlan.zhihu.com/p/96975064)
-- [pytorch CBAM in Resnet](https://zhuanlan.zhihu.com/p/99261200)
+  - [pytorch CBAM example](https://github.com/luuuyi/CBAM.PyTorch/blob/master/model/resnet_cbam.py)
 - [ResNeSt](https://www.codenong.com/cs106434314/)
 - [Regularization L2](https://blog.csdn.net/guyuealian/article/details/88426648)
 - [打開黑盒子 Open Black Boxes 2: Grad-CAM](https://medium.com/jarvis-toward-intelligence/%E6%89%93%E9%96%8B%E9%BB%91%E7%9B%92%E5%AD%90-open-black-boxes-2-1ec6a313f5e9)
+- [Pytorch Pre-Trained](https://zhuanlan.zhihu.com/p/75563856)
 
 - 看論文可以找 **《XX 論文筆記》**
 
