@@ -32,6 +32,7 @@
 
 - [Deep Learning for Computer Vision](https://dvl.in.tum.de/teaching/)
 - [CNN 技巧統整《Bag of Tricks for Image Classification with Convolution Neural Networks》](https://arxiv.org/pdf/1812.01187v2.pdf)
+- [ResNet 全解析+improve](https://zhuanlan.zhihu.com/p/54289848)
 - [SEnet](https://medium.com/@hupinwei/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-senet-squeeze-and-excitation-networks-52ad0a7fd307)
 - [SKNet](https://www.twblogs.net/a/5cc87d09bd9eee1ac30b7d64)
 - [SCSENet(cSE、sSE、scSE)](https://blog.csdn.net/XX_123_1_RJ/article/details/87928935)
