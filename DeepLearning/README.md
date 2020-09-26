@@ -1,6 +1,7 @@
 ## Relation Website
 - [Deepfake Tutorial Website](https://www.deepfakescn.com/)
 - [**Boots your Image to Improve CNN classifier performance**](https://towardsdatascience.com/boost-your-cnn-image-classifier-performance-with-progressive-resizing-in-keras-a7d96da06e20)
+- [CNN 技巧統整《Bag of Tricks for Image Classification with Convolution Neural Networks》](https://arxiv.org/pdf/1812.01187v2.pdf)
 
 ## Pytorch model modify Pre-Trained
 - [教學 1 各式修改](https://zhuanlan.zhihu.com/p/75563856)

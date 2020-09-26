@@ -24,5 +24,5 @@
 - deepfake實戰教學
     - [Tutorial 1](https://zhuanlan.zhihu.com/p/36414465)
     - [Tutorial 2](https://zhuanlan.zhihu.com/p/64490383)
-- [CNN 技巧統整《Bag of Tricks for Image Classification with Convolution Neural Networks》](https://arxiv.org/pdf/1812.01187v2.pdf)
+
 
