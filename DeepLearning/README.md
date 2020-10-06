@@ -30,3 +30,8 @@
 ## GAN
 [PyTorch GAN example](https://github.com/eriklindernoren/PyTorch-GAN)
 
+## Feature fusion / Module fusion
+- Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
+  - [Tutorial 1](https://medium.com/paper-club/multimodal-compact-bilinear-pooling-for-visual-question-answering-and-visual-grounding-6f71bc7d0566)
+  - [Tutorial 2 CN](https://blog.csdn.net/bea_tree/article/details/72903566)
+- [Bilinear CNN](https://blog.csdn.net/u013841196/article/details/102730183)
