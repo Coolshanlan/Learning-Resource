@@ -35,3 +35,7 @@
   - [Tutorial 1](https://medium.com/paper-club/multimodal-compact-bilinear-pooling-for-visual-question-answering-and-visual-grounding-6f71bc7d0566)
   - [Tutorial 2 CN](https://blog.csdn.net/bea_tree/article/details/72903566)
 - [Bilinear CNN](https://blog.csdn.net/u013841196/article/details/102730183)
+## Image Decompose
+ - [Decomposing Images into Layers via RGB-space Geometry](https://cragl.cs.gmu.edu/singleimage/)
+   - [Paper](https://cragl.cs.gmu.edu/singleimage/Decomposing%20Images%20into%20Layers%20via%20RGB-space%20Geometry%20(Tan%20et%20al%202016%20TOG).pdf)
+   - [Website Demo](http://yig.github.io/image-rgb-in-3D/)
