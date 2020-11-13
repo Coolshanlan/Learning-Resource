@@ -4,13 +4,15 @@
 - [CNN 技巧統整《Bag of Tricks for Image Classification with Convolution Neural Networks》](https://arxiv.org/pdf/1812.01187v2.pdf)
 ## Pytorch
 ### 分散式訓練(單機多卡)
-- [教學 1](https://fyubang.com/2019/07/23/distributed-training3/)
+[教學 1](https://fyubang.com/2019/07/23/distributed-training3/)
 ## Activation
 [優秀的超詳細教學](https://www.chainnews.com/zh-hant/articles/741795991763.htm)
+## Learning Rate Scheduler
+[pytorch中六種學習率調整方法](https://zhuanlan.zhihu.com/p/69411064)
 ## Pytorch model modify Pre-Trained
 - [教學 1 各式修改](https://zhuanlan.zhihu.com/p/75563856)
 - [教學 2 修改模組](https://blog.csdn.net/weixin_42118374/article/details/103761795)
-## Fine-tune
+### Fine-tune
 [教學 1 凍結參數](https://zhuanlan.zhihu.com/p/79106053)
 > 推薦  with torch.no_grad():
 ## ResNet Family
@@ -41,7 +43,9 @@
   - [Tutorial 1](https://medium.com/paper-club/multimodal-compact-bilinear-pooling-for-visual-question-answering-and-visual-grounding-6f71bc7d0566)
   - [Tutorial 2 CN](https://blog.csdn.net/bea_tree/article/details/72903566)
 - [Bilinear CNN](https://blog.csdn.net/u013841196/article/details/102730183)
-## Image Decompose
- - [Decomposing Images into Layers via RGB-space Geometry](https://cragl.cs.gmu.edu/singleimage/)
-   - [Paper](https://cragl.cs.gmu.edu/singleimage/Decomposing%20Images%20into%20Layers%20via%20RGB-space%20Geometry%20(Tan%20et%20al%202016%20TOG).pdf)
-   - [Website Demo](http://yig.github.io/image-rgb-in-3D/)
+## Image Augmentation
+- [Overview of popular Image Augmentation packages](https://www.kaggle.com/parulpandey/overview-of-popular-image-augmentation-packages)
+### Image Decompose
+- [Decomposing Images into Layers via RGB-space Geometry](https://cragl.cs.gmu.edu/singleimage/)
+  - [Paper](https://cragl.cs.gmu.edu/singleimage/Decomposing%20Images%20into%20Layers%20via%20RGB-space%20Geometry%20(Tan%20et%20al%202016%20TOG).pdf)
+  - [Website Demo](http://yig.github.io/image-rgb-in-3D/)
