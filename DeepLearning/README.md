@@ -1,10 +1,24 @@
 ## 待讀
 [交叉驗證(Cross-validation, CV)](https://medium.com/@chih.sheng.huang821/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89-cross-validation-cv-3b2c714b18db)
+[Vision Transformer](https://zhuanlan.zhihu.com/p/273652295)
 ## Relation Website
 - [Deepfake Tutorial Website](https://www.deepfakescn.com/)
 - [**Boots your Image to Improve CNN classifier performance**](https://towardsdatascience.com/boost-your-cnn-image-classifier-performance-with-progressive-resizing-in-keras-a7d96da06e20)
 - [CNN 技巧統整《Bag of Tricks for Image Classification with Convolution Neural Networks》](https://arxiv.org/pdf/1812.01187v2.pdf)
 ## Pytorch
+### Seed setting
+[Source Code](https://www.kaggle.com/piantic/cnn-or-transformer-pytorch-xla-tpu-for-cassava?scriptVersionId=51538992)
+```python
+def seed_torch(seed=2021):
+    random.seed(seed)
+    os.environ['PYTHONHASHSEED'] = str(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed(seed)
+    torch.backends.cudnn.deterministic = True
+
+seed_torch(seed=CFG.seed)
+```
 ### 分散式訓練(單機多卡)
 [教學 1](https://fyubang.com/2019/07/23/distributed-training3/)
 ### Learning Rate Scheduler
@@ -15,7 +29,8 @@
 - [教學 1 各式修改](https://zhuanlan.zhihu.com/p/75563856)
 - [教學 2 修改模組](https://blog.csdn.net/weixin_42118374/article/details/103761795)
 ### Fine-tune
-[教學 1 凍結參數](https://zhuanlan.zhihu.com/p/79106053)
+- [教學 1 凍結參數](https://zhuanlan.zhihu.com/p/79106053)
+- [PyTorch 學習筆記（五）：Finetune和各層定制學習率](https://zhuanlan.zhihu.com/p/59780798)
 > 推薦  with torch.no_grad():
 ## ResNet Family
 - [ResNet 全解析+improve](https://zhuanlan.zhihu.com/p/54289848)
@@ -38,7 +53,7 @@
 - [Regularization L2](https://blog.csdn.net/guyuealian/article/details/88426648)
 ### Spatial Pyramid Pooling (SPP Layer)
 - [Spatial Pyramid Pooling講解](https://zhuanlan.zhihu.com/p/34788333)
-## CAM
+## Grad-CAM
 [打開黑盒子 Open Black Boxes 2: Grad-CAM](https://medium.com/jarvis-toward-intelligence/%E6%89%93%E9%96%8B%E9%BB%91%E7%9B%92%E5%AD%90-open-black-boxes-2-1ec6a313f5e9)
 ## GAN
 [PyTorch GAN example](https://github.com/eriklindernoren/PyTorch-GAN)
@@ -61,3 +76,32 @@
 
 ## VOC to COCO
 [【筆記】制作自己的MSCOCO数据集（VOC2COCO）](https://blog.csdn.net/csdn_zhishui/article/details/95074395)
+
+## COCO DataLoader
+[How to train an Object Detector with your own COCO dataset in PyTorch (Common Objects in Context format)   ](https://medium.com/fullstackai/how-to-train-an-object-detector-with-your-own-coco-dataset-in-pytorch-319e7090da5)
+
+## Normalization
+[深度學習中的標準化——Normalization Methods in Deep Learning](https://zhuanlan.zhihu.com/p/142866736)
+#### Zero-mean normalization
+[Z-Score 標準化(zero-mean normalization)](https://zhuanlan.zhihu.com/p/32482328)
+
+#### Instance Normalization
+[從Style的角度理解Instance Normalization](https://zhuanlan.zhihu.com/p/57875010)
+
+## Improve model performance
+[深度神经网络模型训练中的最新tricks总结【原理与代码汇总】](https://zhuanlan.zhihu.com/p/66080948)
+
+[Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Label](https://arxiv.org/pdf/2012.04193.pdf)
+
+Add Attention Block
+
+Label Smoothing
+
+## Kaggle trick
+Install albumentations for image augmentations
+
+Installing Gradual Warmup Scheduler
+```
+pip install git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
+```
+
