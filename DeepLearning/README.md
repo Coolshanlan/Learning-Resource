@@ -19,8 +19,10 @@ def seed_torch(seed=2021):
 
 seed_torch(seed=CFG.seed)
 ```
+### 提升Pytorch training 的17種方法
+[Faster Deep Learning Training with PyTorch – a 2021 Guide](https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/#1-consider-using-another-learning-rate-schedule)
 ### 分散式訓練(單機多卡)
-[教學 1](https://fyubang.com/2019/07/23/distributed-training3/)
+[【分佈式訓練】單機多卡的正確打開方式（三）](https://fyubang.com/2019/07/23/distributed-training3/)
 ### Learning Rate Scheduler
 [pytorch中六種學習率調整方法](https://zhuanlan.zhihu.com/p/69411064)
 ### Activation
@@ -53,6 +55,14 @@ seed_torch(seed=CFG.seed)
 - [Regularization L2](https://blog.csdn.net/guyuealian/article/details/88426648)
 ### Spatial Pyramid Pooling (SPP Layer)
 - [Spatial Pyramid Pooling講解](https://zhuanlan.zhihu.com/p/34788333)
+### Training Trick
+[深度神经网络模型训练中的最新tricks总结【原理与代码汇总】](https://zhuanlan.zhihu.com/p/66080948)
+### Noise Label
+[Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Label](https://arxiv.org/pdf/2012.04193.pdf)
+
+### Add Attention Block
+
+### Label Smoothing
 ## Grad-CAM
 [打開黑盒子 Open Black Boxes 2: Grad-CAM](https://medium.com/jarvis-toward-intelligence/%E6%89%93%E9%96%8B%E9%BB%91%E7%9B%92%E5%AD%90-open-black-boxes-2-1ec6a313f5e9)
 ## GAN
@@ -64,7 +74,10 @@ seed_torch(seed=CFG.seed)
   - [Tutorial 2 CN](https://blog.csdn.net/bea_tree/article/details/72903566)
 - [Bilinear CNN](https://blog.csdn.net/u013841196/article/details/102730183)
 ## Image Augmentation
-- [Overview of popular Image Augmentation packages](https://www.kaggle.com/parulpandey/overview-of-popular-image-augmentation-packages)
+### Albumentations Library
+[Python庫- Albumentations 圖片數據增強庫](https://www.aiuai.cn/aifarm422.html)
+### Overview of popular Image Augmentation packages
+[Overview of popular Image Augmentation packages](https://www.kaggle.com/parulpandey/overview-of-popular-image-augmentation-packages)
 ### Mixup/Cutout/CutMix Training Data
 
 ### Image Decompose
@@ -87,15 +100,6 @@ seed_torch(seed=CFG.seed)
 
 #### Instance Normalization
 [從Style的角度理解Instance Normalization](https://zhuanlan.zhihu.com/p/57875010)
-
-## Improve model performance
-[深度神经网络模型训练中的最新tricks总结【原理与代码汇总】](https://zhuanlan.zhihu.com/p/66080948)
-
-[Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Label](https://arxiv.org/pdf/2012.04193.pdf)
-
-Add Attention Block
-
-Label Smoothing
 
 ## Kaggle trick
 Install albumentations for image augmentations
