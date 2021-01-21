@@ -1,12 +1,26 @@
-# Deep Learning Resource Link
-[TOC]
+# Deep Learning Resources
 ## 待讀
+[SSL4MIS：半監督醫學圖像分割論文合集+benchmark](https://bangqu.com/9tbJy7.html?fbclid=IwAR1Qh7lEgklCnuwbgWrzO7qff9Tt7-kUq7J9U94LrErqdCIFMnIOuB5FVjI)
+
+[提升Pytorch training 的17種方法](https://bangqu.com/q844ga.html)
+
+[數據集樣本有10萬，結果80%都是貓？如何解決「數據類別不均衡」丨NeurIPS 2020](https://bangqu.com/e6439v.html)
+
+[CV技術在醫療領域中有哪些應用？Salesforce、谷歌、斯坦福綜述文章登上Nature子刊](https://bangqu.com/NC2F11.html)
+
+[介紹一篇深度學習圖像分類中處理noisy labels方法的綜述](https://bangqu.com/qCA4nI.html)
+
+[如何防止我的模型過擬合？這篇文章給出了6大必備方法](https://bangqu.com/IF9r31.html)
+
 [交叉驗證(Cross-validation, CV)](https://medium.com/@chih.sheng.huang821/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89-cross-validation-cv-3b2c714b18db)
+
 [Vision Transformer](https://zhuanlan.zhihu.com/p/273652295)
+## 找不到資料或是lib來這裡
+[Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
 ## Relation Website
-- [Deepfake Tutorial Website](https://www.deepfakescn.com/)
-- [**Boots your Image to Improve CNN classifier performance**](https://towardsdatascience.com/boost-your-cnn-image-classifier-performance-with-progressive-resizing-in-keras-a7d96da06e20)
-- [CNN 技巧統整《Bag of Tricks for Image Classification with Convolution Neural Networks》](https://arxiv.org/pdf/1812.01187v2.pdf)
+[Deepfake Tutorial Website](https://www.deepfakescn.com/)
+
+[CNN 技巧統整《Bag of Tricks for Image Classification with Convolution Neural Networks》](https://arxiv.org/pdf/1812.01187v2.pdf)
 ## Pytorch
 ### Seed setting
 [Source Code](https://www.kaggle.com/piantic/cnn-or-transformer-pytorch-xla-tpu-for-cassava?scriptVersionId=51538992)
@@ -22,7 +36,8 @@ def seed_torch(seed=2021):
 seed_torch(seed=CFG.seed)
 ```
 ### 提升Pytorch training 的17種方法
-[Faster Deep Learning Training with PyTorch – a 2021 Guide](https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/#1-consider-using-another-learning-rate-schedule)
+- [EN- Faster Deep Learning Training with PyTorch – a 2021 Guide](https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/#1-consider-using-another-learning-rate-schedule)
+- [CN- Faster Deep Learning Training with PyTorch – a 2021 Guide](https://bangqu.com/q844ga.html)
 ### 分散式訓練(單機多卡)
 [【分佈式訓練】單機多卡的正確打開方式（三）](https://fyubang.com/2019/07/23/distributed-training3/)
 ### Learning Rate Scheduler
