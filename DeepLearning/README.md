@@ -10,6 +10,10 @@
 
 [介紹一篇深度學習圖像分類中處理noisy labels方法的綜述](https://bangqu.com/qCA4nI.html)
 
+[從零開始，用Python徒手寫線性迴歸](https://bangqu.com/d96f49.html)
+
+[內置降維、聚類等算法，時間序列數據分析Python庫Deeptime](https://bangqu.com/UeE6oB.html)
+
 [如何防止我的模型過擬合？這篇文章給出了6大必備方法](https://bangqu.com/IF9r31.html)
 
 [交叉驗證(Cross-validation, CV)](https://medium.com/@chih.sheng.huang821/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89-cross-validation-cv-3b2c714b18db)
@@ -35,9 +39,10 @@ def seed_torch(seed=2021):
 
 seed_torch(seed=CFG.seed)
 ```
-### 提升Pytorch training 的17種方法
+### 提升Pytorch training 速度
 - [EN- Faster Deep Learning Training with PyTorch – a 2021 Guide](https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/#1-consider-using-another-learning-rate-schedule)
 - [CN- Faster Deep Learning Training with PyTorch – a 2021 Guide](https://bangqu.com/q844ga.html)
+- [其他建議 推！](https://hackmd.io/@Hong-Jia/H1hmbNr1d)
 ### 分散式訓練(單機多卡)
 [【分佈式訓練】單機多卡的正確打開方式（三）](https://fyubang.com/2019/07/23/distributed-training3/)
 ### Learning Rate Scheduler
