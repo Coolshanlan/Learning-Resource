@@ -1,7 +1,7 @@
 # Learning Source of Artificial Intelligence
 
 ## Learning Website
-### [Kaggle](https://www.kaggle.com/)
+### Kaggle[[link]](https://www.kaggle.com/)
 很多競賽跟資料集，可以去看別人的notebook來學習，很多人會在上面寫教學
 ### [GPU Taiwan Facebook Community](https://www.facebook.com/groups/344517158933201)
 版主文章質量很高，我大部分資源都從這裡取得
