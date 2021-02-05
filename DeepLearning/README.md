@@ -131,3 +131,13 @@ Installing Gradual Warmup Scheduler
 pip install git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
 ```
 
+## Pandas
+
+#### Shuffle
+``` python
+df = df.smaple(frac=1,random_state=seed)
+```
+#### Split Data
+```python
+
+```

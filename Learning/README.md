@@ -1,7 +1,13 @@
 # **機器學習/深度學習 相關教學資源**
 ## Recommend Website
-- [Paper with Code](https://paperswithcode.com/)
-- [Deep Learning for Computer Vision](https://dvl.in.tum.de/teaching/)
+#### [Paper with Code](https://paperswithcode.com/)
+**找model、找Task，來這就對了**
+
+論文 + github code，最近還釋出3000+ Dataset，任務分類詳細，可以找到最新的模型架構跟基準
+
+#### [Deep Learning for Computer Vision](https://dvl.in.tum.de/teaching/)
+For Computer Vision 的學習平台，裡面有一些課程可以觀看
+
 - [Image Classification Network](https://sotabench.com/user/rwightman/repos/rwightman/pytorch-image-models)
 - [Benchmarking Every Open Source Model](https://sotabench.com/)
 - 看論文可以找 **《XX 論文筆記》**

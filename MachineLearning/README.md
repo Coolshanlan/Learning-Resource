@@ -3,7 +3,7 @@
 
 ## 待讀
 [從零開始，用Python徒手寫線性迴歸](https://bangqu.com/d96f49.html)
-
+[Automatic EDA Libraries Comparisson](https://www.kaggle.com/andreshg/automatic-eda-libraries-comparisson)
 ## Model
 ### XgBoost
 - [史上最詳細的XGBoost實戰](https://zhuanlan.zhihu.com/p/31182879)
