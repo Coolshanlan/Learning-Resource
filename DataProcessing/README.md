@@ -8,7 +8,7 @@
 [從Style的角度理解Instance Normalization](https://zhuanlan.zhihu.com/p/57875010)
 
 ## Image Convert
-## GLCM 灰度共生矩陣
+### GLCM 灰度共生矩陣
 [還沒看的一篇，對紋理講得蠻詳細的](https://www.itread01.com/content/1545348267.html)
 
 [應用Haralick texture於蔬菜辨識](https://chtseng.wordpress.com/2017/03/17/%E6%87%89%E7%94%A8haralick-texture%E6%96%BC%E8%94%AC%E8%8F%9C%E8%BE%A8%E8%AD%98/)
@@ -29,7 +29,7 @@
 - [Decomposing Images into Layers via RGB-space Geometry](https://cragl.cs.gmu.edu/singleimage/)
   - [Paper](https://cragl.cs.gmu.edu/singleimage/Decomposing%20Images%20into%20Layers%20via%20RGB-space%20Geometry%20(Tan%20et%20al%202016%20TOG).pdf)
   - [Website Demo](http://yig.github.io/image-rgb-in-3D/)
-## VOC Dataset Dormat
+## VOC Dataset Format
 [制作自己的pascal voc数据集](https://zhuanlan.zhihu.com/p/42980766)
 
 ### VOC to COCO

@@ -48,8 +48,6 @@ Data Science大全，從Git、SQL、Excel、Algorithms...都有
 - pandas
 - matplotlib
 
-## [Computer Vision](https://github.com/Coolshanlan/Learning-Resource/tree/master/Computer%20Vision)
-
 
 ## [DeepLearning](https://github.com/Coolshanlan/Learning-Resource/tree/master/DeepLearning)
 
