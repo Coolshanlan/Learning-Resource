@@ -54,7 +54,7 @@ Data Science大全，從Git、SQL、Excel、Algorithms...都有
 ## [DeepLearning](https://github.com/Coolshanlan/Learning-Resource/tree/master/DeepLearning)
 
 
-## [Learning Resource](https://github.com/Coolshanlan/Learning-Resource/tree/master/Learning)
+## [DataProcessing](https://github.com/Coolshanlan/Learning-Resource/tree/master/DataProcessing)
 ## [Machine Learning](https://github.com/Coolshanlan/Learning-Resource/tree/master/MachineLearning)
 
 
