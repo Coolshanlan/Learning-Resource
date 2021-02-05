@@ -18,6 +18,12 @@
 
 [交叉驗證(Cross-validation, CV)](https://medium.com/@chih.sheng.huang821/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89-cross-validation-cv-3b2c714b18db)
 
+[Three mysteries in deep learning ensemble knowledge distillation and self distillation](https://www.microsoft.com/en-us/research/blog/three-mysteries-in-deep-learning-ensemble-knowledge-distillation-and-self-distillation/)
+
+[3萬字輕鬆入門Transform Vision](https://bangqu.com/31z8yM.html)
+
+[真正的即插即用！盤點11種CNN網絡設計中精巧通用的「小」插件](https://bangqu.com/YH99o3.html)
+
 [Vision Transformer](https://zhuanlan.zhihu.com/p/273652295)
 ## 找不到資料或是lib來這裡
 [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
