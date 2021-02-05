@@ -101,33 +101,7 @@ seed_torch(seed=CFG.seed)
   - [Tutorial 1](https://medium.com/paper-club/multimodal-compact-bilinear-pooling-for-visual-question-answering-and-visual-grounding-6f71bc7d0566)
   - [Tutorial 2 CN](https://blog.csdn.net/bea_tree/article/details/72903566)
 - [Bilinear CNN](https://blog.csdn.net/u013841196/article/details/102730183)
-## Image Augmentation
-### Albumentations Library
-[Python庫- Albumentations 圖片數據增強庫](https://www.aiuai.cn/aifarm422.html)
-### Overview of popular Image Augmentation packages
-[Overview of popular Image Augmentation packages](https://www.kaggle.com/parulpandey/overview-of-popular-image-augmentation-packages)
-### Mixup/Cutout/CutMix Training Data
 
-### Image Decompose
-- [Decomposing Images into Layers via RGB-space Geometry](https://cragl.cs.gmu.edu/singleimage/)
-  - [Paper](https://cragl.cs.gmu.edu/singleimage/Decomposing%20Images%20into%20Layers%20via%20RGB-space%20Geometry%20(Tan%20et%20al%202016%20TOG).pdf)
-  - [Website Demo](http://yig.github.io/image-rgb-in-3D/)
-## VOC Dataset format conversion
-[制作自己的pascal voc数据集](https://zhuanlan.zhihu.com/p/42980766)
-
-## VOC to COCO
-[【筆記】制作自己的MSCOCO数据集（VOC2COCO）](https://blog.csdn.net/csdn_zhishui/article/details/95074395)
-
-## COCO DataLoader
-[How to train an Object Detector with your own COCO dataset in PyTorch (Common Objects in Context format)   ](https://medium.com/fullstackai/how-to-train-an-object-detector-with-your-own-coco-dataset-in-pytorch-319e7090da5)
-
-## Normalization
-[深度學習中的標準化——Normalization Methods in Deep Learning](https://zhuanlan.zhihu.com/p/142866736)
-#### Zero-mean normalization
-[Z-Score 標準化(zero-mean normalization)](https://zhuanlan.zhihu.com/p/32482328)
-
-#### Instance Normalization
-[從Style的角度理解Instance Normalization](https://zhuanlan.zhihu.com/p/57875010)
 
 ## Kaggle trick
 Install albumentations for image augmentations
@@ -135,15 +109,4 @@ Install albumentations for image augmentations
 Installing Gradual Warmup Scheduler
 ```
 pip install git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
-```
-
-## Pandas
-
-#### Shuffle
-``` python
-df = df.smaple(frac=1,random_state=seed)
-```
-#### Split Data
-```python
-
 ```
