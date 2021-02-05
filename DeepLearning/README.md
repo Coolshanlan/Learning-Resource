@@ -25,11 +25,8 @@
 [真正的即插即用！盤點11種CNN網絡設計中精巧通用的「小」插件](https://bangqu.com/YH99o3.html)
 
 [Vision Transformer](https://zhuanlan.zhihu.com/p/273652295)
-## 找不到資料或是lib來這裡
-[Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
-## Relation Website
-[Deepfake Tutorial Website](https://www.deepfakescn.com/)
 
+## Relation Website
 [CNN 技巧統整《Bag of Tricks for Image Classification with Convolution Neural Networks》](https://arxiv.org/pdf/1812.01187v2.pdf)
 ## Pytorch
 ### Seed setting
