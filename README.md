@@ -1,4 +1,13 @@
 # Learning Source of Artificial Intelligence
+## [Python](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python)
+- numpy
+- pandas
+- matplotlib
+## [DeepLearning](https://github.com/Coolshanlan/Learning-Resource/tree/master/DeepLearning)
+
+
+## [DataProcessing](https://github.com/Coolshanlan/Learning-Resource/tree/master/DataProcessing)
+## [Machine Learning](https://github.com/Coolshanlan/Learning-Resource/tree/master/MachineLearning)
 ## Recommend Website
 #### [Data Science CheatSheet](https://www.kaggle.com/timoboz/data-science-cheat-sheets?select=Excel)
 Data Science大全，從Git、SQL、Excel、Algorithms...都有
@@ -21,8 +30,7 @@ Data Science大全，從Git、SQL、Excel、Algorithms...都有
 看論文可以找 **《XX 論文筆記》**
 
 ## Tutorial Website
-
-- [吐血推薦，B站最強學習資源彙總（數據科學，機器學習，python）](https://bangqu.com/8me24e.html?fbclid=IwAR2ZHJHB6H3QSGNia6z1ty6ZCVEg0RRg4KRcIXnJ4c1uu6zoGOWoXQMiI4U)
+[吐血推薦，B站最強學習資源彙總（數據科學，機器學習，python）](https://bangqu.com/8me24e.html?fbclid=IwAR2ZHJHB6H3QSGNia6z1ty6ZCVEg0RRg4KRcIXnJ4c1uu6zoGOWoXQMiI4U)
 ### Deep Learning
 - [**深度學習/機器學習 教學首推**](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
 
@@ -43,16 +51,4 @@ Data Science大全，從Git、SQL、Excel、Algorithms...都有
 - deepfake實戰教學
     - [Tutorial 1](https://zhuanlan.zhihu.com/p/36414465)
     - [Tutorial 2](https://zhuanlan.zhihu.com/p/64490383)
-## [Python](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python)
-- numpy
-- pandas
-- matplotlib
-
-
-## [DeepLearning](https://github.com/Coolshanlan/Learning-Resource/tree/master/DeepLearning)
-
-
-## [DataProcessing](https://github.com/Coolshanlan/Learning-Resource/tree/master/DataProcessing)
-## [Machine Learning](https://github.com/Coolshanlan/Learning-Resource/tree/master/MachineLearning)
-
 
