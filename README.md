@@ -3,22 +3,22 @@
 ## Learning Website
 #### [Kaggle](https://www.kaggle.com/)
 很多競賽跟資料集，可以去看別人的notebook來學習，很多人會在上面寫教學
-### [GPU Taiwan Facebook Community](https://www.facebook.com/groups/344517158933201)
+#### [GPU Taiwan Facebook Community](https://www.facebook.com/groups/344517158933201)
 版主文章質量很高，我大部分資源都從這裡取得
-### [Paper with Code](https://paperswithcode.com/)
+#### [Paper with Code](https://paperswithcode.com/)
 
 **找model、找Task，來這就對了**
 
 論文 + github code，最近還釋出3000+ Dataset，任務分類詳細，可以找到最新的模型架構跟基準
 
-### [Deep Learning for Computer Vision](https://dvl.in.tum.de/teaching/)
+#### [Deep Learning for Computer Vision](https://dvl.in.tum.de/teaching/)
 
 For Computer Vision 的學習平台，裡面有一些課程可以觀看
 
-### [Benchmarking Every Open Source Model](https://sotabench.com/)
+#### [Benchmarking Every Open Source Model](https://sotabench.com/)
 
 跟 paper with code 差不多，可以看到所有open source model 的 benchmarks，所以可以在上面找到目前主流的模型
-### Little Trick
+#### Little Trick
 看論文可以找 **《XX 論文筆記》**
 
 ## Tutorial Website
