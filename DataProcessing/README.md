@@ -37,3 +37,8 @@
 
 ### COCO DataLoader
 [How to train an Object Detector with your own COCO dataset in PyTorch (Common Objects in Context format)   ](https://medium.com/fullstackai/how-to-train-an-object-detector-with-your-own-coco-dataset-in-pytorch-319e7090da5)
+
+### Data Vision
+[資料降維與視覺化：t-SNE 理論與應用](https://mropengate.blogspot.com/2019/06/t-sne.html)
+做資料視覺化通常會需要用到降為技術，TSNE是常見技術之一效果不錯
+[Kaggle example for efficionnet-b3 without classifier](https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/202017)

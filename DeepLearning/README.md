@@ -112,3 +112,7 @@ pip install git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
     - [Tutorial 1](https://zhuanlan.zhihu.com/p/132655457)
     - [Tutorial 2](https://www.codenong.com/cs106434314)
     - [Tutorial 3 疑惑教學探討](https://aijishu.com/a/1060000000110446)
+
+## Train trick
+### Train in Noise Labels
+[Bi-Tempered Logistic Loss：將噪聲對訓練結果影響降到最低](https://www.linkresearcher.com/theses/fab3ac44-d2ed-48d6-8216-c7473764950f)
