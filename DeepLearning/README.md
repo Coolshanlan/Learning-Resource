@@ -61,6 +61,15 @@
   - [Tutorial 1](https://medium.com/paper-club/multimodal-compact-bilinear-pooling-for-visual-question-answering-and-visual-grounding-6f71bc7d0566)
   - [Tutorial 2 CN](https://blog.csdn.net/bea_tree/article/details/72903566)
 - [Bilinear CNN](https://blog.csdn.net/u013841196/article/details/102730183)
+## Training Trick
+[深度神经网络模型训练中的最新tricks总结【原理与代码汇总】](https://zhuanlan.zhihu.com/p/66080948)
+### Noise Label
+[Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Label](https://arxiv.org/pdf/2012.04193.pdf)
+### Train in Noise Labels
+[Bi-Tempered Logistic Loss：將噪聲對訓練結果影響降到最低](https://www.linkresearcher.com/theses/fab3ac44-d2ed-48d6-8216-c7473764950f)
+#### Add Attention Block
+
+#### Label Smoothing
 ## Pytorch
 ### Seed setting
 [Source Code](https://www.kaggle.com/piantic/cnn-or-transformer-pytorch-xla-tpu-for-cassava?scriptVersionId=51538992)
@@ -75,6 +84,12 @@ def seed_torch(seed=2021):
 
 seed_torch(seed=CFG.seed)
 ```
+### Pytorch model modify Pre-Trained
+- [教學 1 各式修改](https://zhuanlan.zhihu.com/p/75563856)
+- [教學 2 修改模組](https://blog.csdn.net/weixin_42118374/article/details/103761795)
+### Fine-tune
+- [教學 1 凍結參數](https://zhuanlan.zhihu.com/p/79106053)
+- [PyTorch 學習筆記（五）：Finetune和各層定制學習率](https://zhuanlan.zhihu.com/p/59780798)
 ### 提升Pytorch training 速度
 - [EN- Faster Deep Learning Training with PyTorch – a 2021 Guide](https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/#1-consider-using-another-learning-rate-schedule)
 - [CN- Faster Deep Learning Training with PyTorch – a 2021 Guide](https://bangqu.com/q844ga.html)
@@ -85,23 +100,11 @@ seed_torch(seed=CFG.seed)
 [pytorch中六種學習率調整方法](https://zhuanlan.zhihu.com/p/69411064)
 ### Activation
 [優秀的超詳細教學](https://www.chainnews.com/zh-hant/articles/741795991763.htm)
-### Pytorch model modify Pre-Trained
-- [教學 1 各式修改](https://zhuanlan.zhihu.com/p/75563856)
-- [教學 2 修改模組](https://blog.csdn.net/weixin_42118374/article/details/103761795)
-### Fine-tune
-- [教學 1 凍結參數](https://zhuanlan.zhihu.com/p/79106053)
-- [PyTorch 學習筆記（五）：Finetune和各層定制學習率](https://zhuanlan.zhihu.com/p/59780798)
+
 > 推薦  with torch.no_grad():
 
 
-## Training Trick
-[深度神经网络模型训练中的最新tricks总结【原理与代码汇总】](https://zhuanlan.zhihu.com/p/66080948)
-### Noise Label
-[Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Label](https://arxiv.org/pdf/2012.04193.pdf)
 
-#### Add Attention Block
-
-#### Label Smoothing
 
 
 ## Computer Vision
@@ -111,16 +114,14 @@ seed_torch(seed=CFG.seed)
 
 
 
-## Kaggle trick
+## Kaggle Trick
 Install albumentations for image augmentations
 
 Installing Gradual Warmup Scheduler
 ```
 pip install git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
 ```
-## Train trick
-### Train in Noise Labels
-[Bi-Tempered Logistic Loss：將噪聲對訓練結果影響降到最低](https://www.linkresearcher.com/theses/fab3ac44-d2ed-48d6-8216-c7473764950f)
+
 
 ## Recommend Website
 [CNN 技巧統整《Bag of Tricks for Image Classification with Convolution Neural Networks》](https://arxiv.org/pdf/1812.01187v2.pdf)
