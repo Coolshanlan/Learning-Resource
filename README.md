@@ -4,7 +4,7 @@
 - pandas
 - matplotlib
 ## [DeepLearning](https://github.com/Coolshanlan/Learning-Resource/tree/master/DeepLearning)
- - Model
+ - **Model**
    - Model Backbone
      - Reset Family(NFnet、Resxnet、Resnset...)
      - Repvgg
@@ -13,12 +13,12 @@
      - Attention Layer
      - Spatial Pyramid Pooling (SPP Layer)
      - Feature fusion / Module fusion
- - Training Trick
+ - **Training Trick**
    - Noise Label
    - Training in Noise Labels
    - Add Attention Layer
    - Label smoothing
- - Pytorch
+ - **Pytorch**
    - Seed setting
    - Modify pre-trained model
    - Fine-tune model
@@ -26,10 +26,10 @@
    - Distributed training
    - Learning scheduler
    - Activation
- - Computer Vision
+ - **Computer Vision**
    - Grad-CAM
- - Kaggle Trick
- - Recommend Website
+ - **Kaggle Trick**
+ - **Recommend Website**
 
 ## [DataProcessing](https://github.com/Coolshanlan/Learning-Resource/tree/master/DataProcessing)
 ## [Machine Learning](https://github.com/Coolshanlan/Learning-Resource/tree/master/MachineLearning)
