@@ -6,11 +6,13 @@
 ## [DeepLearning](https://github.com/Coolshanlan/Learning-Resource/tree/master/DeepLearning)
  - Model
    - Model Backbone
-     - Reset Family(Resxnet、Resnset...)
-     - Regvgg
+     - Reset Family(NFnet、Resxnet、Resnset...)
+     - Repvgg
      - Gan
    - Enhance Model
      - Attention Layer
+     - Spatial Pyramid Pooling (SPP Layer)
+     - Feature fusion / Module fusion
 
 ## [DataProcessing](https://github.com/Coolshanlan/Learning-Resource/tree/master/DataProcessing)
 ## [Machine Learning](https://github.com/Coolshanlan/Learning-Resource/tree/master/MachineLearning)
