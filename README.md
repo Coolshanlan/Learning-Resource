@@ -73,7 +73,7 @@ Data Science大全，從Git、SQL、Excel、Algorithms...都有
 
 ### [Benchmarking Every Open Source Model](https://sotabench.com/)
 跟 paper with code 差不多，可以看到所有open source model 的 benchmarks，所以可以在上面找到目前主流的模型
-### CVer計算機視覺(https://www.zhihu.com/people/cver-38)
+### [CVer計算機視覺](https://www.zhihu.com/people/cver-38)
 這是一個知乎用戶，常常會發佈關於Computer vision的最新研究
 ### [Github1s](https://github.com/conwnet/github1s)
 你可以在任何github repositories的網址上，把`github.com` 改成 `github1s.com`，就可以用vscode editor查看
