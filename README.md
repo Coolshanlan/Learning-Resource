@@ -75,13 +75,12 @@ Data Science大全，從Git、SQL、Excel、Algorithms...都有
 跟 paper with code 差不多，可以看到所有open source model 的 benchmarks，所以可以在上面找到目前主流的模型
 ### CVer計算機視覺(https://www.zhihu.com/people/cver-38)
 這是一個知乎用戶，常常會發佈關於Computer vision的最新研究
+### [Github1s](https://github.com/conwnet/github1s)
+你可以在任何github repositories的網址上，把`github.com` 改成 `github1s.com`，就可以用vscode editor查看
+
 ### Little Trick
 看論文可以找 *《XX 論文筆記》*
 
-### Github1s
-你可以在任何github repositories的網址上，把`github.com` 改成 `github1s.com`，就可以用vscode editor查看
-
-[Github1s GITHUB](https://github.com/conwnet/github1s)
 
 ## Tutorial Website
 [吐血推薦，B站最強學習資源彙總（數據科學，機器學習，python）](https://bangqu.com/8me24e.html?fbclid=IwAR2ZHJHB6H3QSGNia6z1ty6ZCVEg0RRg4KRcIXnJ4c1uu6zoGOWoXQMiI4U)
