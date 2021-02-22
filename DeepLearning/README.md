@@ -1,6 +1,12 @@
 # Deep Learning Resources
+## 優先待讀
+[交叉驗證(Cross-validation, CV)](https://medium.com/@chih.sheng.huang821/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89-cross-validation-cv-3b2c714b18db)
 
+[Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+
+[深度學習中的3個秘密：集成，知識蒸餾和蒸餾](https://zhuanlan.zhihu.com/p/348006186)
 ## 待讀
+[2020年，那些「引爆」了ML社區的熱門論文、庫和基準](https://bangqu.com/5a9338.html)
 [提升Pytorch training 的17種方法](https://bangqu.com/q844ga.html)
 
 [數據集樣本有10萬，結果80%都是貓？如何解決「數據類別不均衡」丨NeurIPS 2020](https://bangqu.com/e6439v.html)
@@ -9,13 +15,9 @@
 
 [介紹一篇深度學習圖像分類中處理noisy labels方法的綜述](https://bangqu.com/qCA4nI.html)
 
-[從零開始，用Python徒手寫線性迴歸](https://bangqu.com/d96f49.html)
-
 [內置降維、聚類等算法，時間序列數據分析Python庫Deeptime](https://bangqu.com/UeE6oB.html)
 
 [如何防止我的模型過擬合？這篇文章給出了6大必備方法](https://bangqu.com/IF9r31.html)
-
-[交叉驗證(Cross-validation, CV)](https://medium.com/@chih.sheng.huang821/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89-cross-validation-cv-3b2c714b18db)
 
 [Three mysteries in deep learning ensemble knowledge distillation and self distillation](https://www.microsoft.com/en-us/research/blog/three-mysteries-in-deep-learning-ensemble-knowledge-distillation-and-self-distillation/)
 
