@@ -1,38 +1,64 @@
 # Learning Source of Artificial Intelligence
 ## [Python](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python)
-- numpy
-- pandas
-- matplotlib
+- Numpy
+- Pandas
+  - Dataframe shuffle
+  - DataFrame to list of dictionary
+  - DataFrame filter to select data
+- Matplotlib
+  - subplots
+  - pie plot
 ## [DeepLearning](https://github.com/Coolshanlan/Learning-Resource/tree/master/DeepLearning)
- - **Model**
-   - Model Backbone
-     - Reset Family(NFnet、Resxnet、Resnset...)
-     - Repvgg
-     - Gan
-   - Enhance Model
-     - Attention Layer
-     - Spatial Pyramid Pooling (SPP Layer)
-     - Feature fusion / Module fusion
- - **Training Trick**
-   - Noise Label
-   - Training in Noise Labels
-   - Add Attention Layer
-   - Label smoothing
- - **Pytorch**
-   - Seed setting
-   - Modify pre-trained model
-   - Fine-tune model
-   - Improve speed of pytorch training
-   - Distributed training
-   - Learning scheduler
-   - Activation
- - **Computer Vision**
-   - Grad-CAM
- - **Kaggle Trick**
- - **Recommend Website**
+- **Model**
+  - Model Backbone
+    - Reset Family(NFnet、Resxnet、Resnset...)
+    - Repvgg
+    - Gan
+  - Enhance Model
+    - Attention Layer
+    - Spatial Pyramid Pooling (SPP Layer)
+    - Feature fusion / Module fusion
+- **Training Trick**
+  - Noise Label
+  - Training in Noise Labels
+  - Add Attention Layer
+  - Label smoothing
+- **Pytorch**
+  - Seed setting
+  - Modify pre-trained model
+  - Fine-tune model
+  - Improve speed of pytorch training
+  - Distributed training
+  - Learning scheduler
+  - Activation
+- **Computer Vision**
+  - Grad-CAM
+- **Kaggle Trick**
+- **Recommend Website**
 
 ## [DataProcessing](https://github.com/Coolshanlan/Learning-Resource/tree/master/DataProcessing)
+- **Exploratory Data Analysis(EDA)**
+- **Text to Value**
+- **One hot encoding**
+- **Normalization**
+  - Zero-mean normalization
+  - Instance Normalization
+- **Image Convert**
+  - Gray Level Co-occurrence Matrix(GLCM) 灰度共生矩陣
+  - Image Decompose
+- **Image Augmentation**
+  - Albumentations Library
+  - Image Contrast Enhancement
+  - Mixup/Cutout/CutMix Training Data
+- **Dataset Format**
+  - VOC to COCO
+  - COCO DataLoader
+- **Data Vision**
+  - T-SNE
 ## [Machine Learning](https://github.com/Coolshanlan/Learning-Resource/tree/master/MachineLearning)
+- **Model**
+  - XgBoost
+  - SVM
 ## Recommend Website
 #### [Data Science CheatSheet](https://www.kaggle.com/timoboz/data-science-cheat-sheets?select=Excel)
 Data Science大全，從Git、SQL、Excel、Algorithms...都有
@@ -61,10 +87,10 @@ Data Science大全，從Git、SQL、Excel、Algorithms...都有
 
 - [台大深度學習教學](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
 - NCCU自學課程-成為python數據分析達人的第一課
-    - [Tutorial 1](http://moocs.nccu.edu.tw/course/123/intro)
-    - [Tutorial 2](https://github.com/yenlung/Python-3-Data-Analysis-Basics)
+   - [Tutorial 1](http://moocs.nccu.edu.tw/course/123/intro)
+   - [Tutorial 2](https://github.com/yenlung/Python-3-Data-Analysis-Basics)
 - [TI邦幫忙-深度學習的魔法使們 系列](https://ithelp.ithome.com.tw/users/20112540/ironman/2064?page=1)
-- [SIGAI - 知乎//各種人工智慧技術文章](https://zhuanlan.zhihu.com/c_201634018)
+- [SIGAI- 知乎//各種人工智慧技術文章](https://zhuanlan.zhihu.com/c_201634018)
 - [Deep Learning for Computer Vision](https://dvl.in.tum.de/teaching/)
 ### Tensorflow
 - [Tensorflow2.0 最強教學！](https://zhuanlan.zhihu.com/c_109102186304362496)
@@ -74,6 +100,6 @@ Data Science大全，從Git、SQL、Excel、Algorithms...都有
 ### DeepFake
 - [Deepfake Tutorial Website](https://www.deepfakescn.com/)
 - deepfake實戰教學
-    - [Tutorial 1](https://zhuanlan.zhihu.com/p/36414465)
-    - [Tutorial 2](https://zhuanlan.zhihu.com/p/64490383)
+   - [Tutorial 1](https://zhuanlan.zhihu.com/p/36414465)
+   - [Tutorial 2](https://zhuanlan.zhihu.com/p/64490383)
 

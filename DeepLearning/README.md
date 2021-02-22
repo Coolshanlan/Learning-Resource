@@ -44,8 +44,8 @@
 #### GAN
 [PyTorch GAN example](https://github.com/eriklindernoren/PyTorch-GAN)
 
-### Enhance model
-#### Attention in CNN
+## Enhance model
+### Attention in CNN
 - [CBAM](https://zhuanlan.zhihu.com/p/96975064)
 - [CBAM in Resnet](https://zhuanlan.zhihu.com/p/99261200)
 - [BAM](https://blog.csdn.net/qq_32768091/article/details/86612132)
@@ -54,9 +54,9 @@
 - [SCSENet(cSE、sSE、scSE)](https://blog.csdn.net/XX_123_1_RJ/article/details/87928935)
 - [GENet](https://blog.csdn.net/dgyuanshaofeng/article/details/84179196)
 - [Regularization L2](https://blog.csdn.net/guyuealian/article/details/88426648)
-#### Spatial Pyramid Pooling (SPP Layer)
+### Spatial Pyramid Pooling (SPP Layer)
 - [Spatial Pyramid Pooling講解](https://zhuanlan.zhihu.com/p/34788333)
-#### Feature fusion / Module fusion
+### Feature fusion / Module fusion
 - Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
   - [Tutorial 1](https://medium.com/paper-club/multimodal-compact-bilinear-pooling-for-visual-question-answering-and-visual-grounding-6f71bc7d0566)
   - [Tutorial 2 CN](https://blog.csdn.net/bea_tree/article/details/72903566)
@@ -67,9 +67,9 @@
 [Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Label](https://arxiv.org/pdf/2012.04193.pdf)
 ### Train in Noise Labels
 [Bi-Tempered Logistic Loss：將噪聲對訓練結果影響降到最低](https://www.linkresearcher.com/theses/fab3ac44-d2ed-48d6-8216-c7473764950f)
-#### Add Attention Block
+### Add Attention Block
 
-#### Label Smoothing
+### Label Smoothing
 ## Pytorch
 ### Seed setting
 [Source Code](https://www.kaggle.com/piantic/cnn-or-transformer-pytorch-xla-tpu-for-cassava?scriptVersionId=51538992)
@@ -81,7 +81,6 @@ def seed_torch(seed=2021):
     torch.manual_seed(seed)
     torch.cuda.manual_seed(seed)
     torch.backends.cudnn.deterministic = True
-
 seed_torch(seed=CFG.seed)
 ```
 ### Pytorch model modify Pre-Trained
@@ -101,18 +100,9 @@ seed_torch(seed=CFG.seed)
 ### Activation
 [優秀的超詳細教學](https://www.chainnews.com/zh-hant/articles/741795991763.htm)
 
-> 推薦  with torch.no_grad():
-
-
-
-
-
 ## Computer Vision
 ### Grad-CAM
 [打開黑盒子 Open Black Boxes 2: Grad-CAM](https://medium.com/jarvis-toward-intelligence/%E6%89%93%E9%96%8B%E9%BB%91%E7%9B%92%E5%AD%90-open-black-boxes-2-1ec6a313f5e9)
-
-
-
 
 ## Kaggle Trick
 Install albumentations for image augmentations
@@ -121,7 +111,5 @@ Installing Gradual Warmup Scheduler
 ```
 pip install git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
 ```
-
-
-## Recommend Website
+## Recommend Post
 [CNN 技巧統整《Bag of Tricks for Image Classification with Convolution Neural Networks》](https://arxiv.org/pdf/1812.01187v2.pdf)
