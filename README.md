@@ -8,7 +8,7 @@
 - Matplotlib
   - subplots
   - pie plot
-## [DeepLearning](https://github.com/Coolshanlan/Learning-Resource/tree/master/DeepLearning)
+## [Deep Learning](https://github.com/Coolshanlan/Learning-Resource/tree/master/DeepLearning)
 - **Model**
   - Model Backbone
     - Reset Family(NFnet、Resxnet、Resnset...)
@@ -36,7 +36,7 @@
 - **Kaggle Trick**
 - **Recommend Website**
 
-## [DataProcessing](https://github.com/Coolshanlan/Learning-Resource/tree/master/DataProcessing)
+## [Data Processing](https://github.com/Coolshanlan/Learning-Resource/tree/master/DataProcessing)
 - **Exploratory Data Analysis(EDA)**
 - **Text to Value**
 - **One hot encoding**
