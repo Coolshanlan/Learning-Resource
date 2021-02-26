@@ -1,6 +1,7 @@
 # Learning Source of Artificial Intelligence
 ## [Python](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python)
 - **Numpy**
+  - tmp
 - **Pandas**
   - Dataframe shuffle
   - DataFrame to list of dictionary
