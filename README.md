@@ -1,11 +1,11 @@
 # Learning Source of Artificial Intelligence
 ## [Python](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python)
-- Numpy
-- Pandas
+- **Numpy**
+- **Pandas**
   - Dataframe shuffle
   - DataFrame to list of dictionary
   - DataFrame filter to select data
-- Matplotlib
+- **Matplotlib**
   - subplots
   - pie plot
 ## [Deep Learning](https://github.com/Coolshanlan/Learning-Resource/tree/master/DeepLearning)
