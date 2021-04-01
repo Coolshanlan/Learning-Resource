@@ -1,10 +1,8 @@
 # Deep Learning Resources
 ## 優先待讀
-[交叉驗證(Cross-validation, CV)](https://medium.com/@chih.sheng.huang821/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89-cross-validation-cv-3b2c714b18db)
+[使用Pre-training的方法與時機](https://medium.com/%E8%BB%9F%E9%AB%94%E4%B9%8B%E5%BF%83/deep-learning-%E4%BD%BF%E7%94%A8pre-training%E7%9A%84%E6%96%B9%E6%B3%95%E8%88%87%E6%99%82%E6%A9%9F-b0ef14e777e9)
 
-[Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
-
-[深度學習中的3個秘密：集成，知識蒸餾和蒸餾](https://zhuanlan.zhihu.com/p/348006186)
+[PyTorch Lightning 入坑心得](https://medium.com/%E6%95%B8%E5%AD%B8-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E8%88%87%E8%9F%92%E8%9B%87/pytorch-lightning-%E5%85%A5%E5%9D%91%E5%BF%83%E5%BE%97-81af12de9bb7)
 ## 待讀
 [2020年，那些「引爆」了ML社區的熱門論文、庫和基準](https://bangqu.com/5a9338.html)
 [提升Pytorch training 的17種方法](https://bangqu.com/q844ga.html)
@@ -65,6 +63,23 @@
 - [Bilinear CNN](https://blog.csdn.net/u013841196/article/details/102730183)
 ## Training Trick
 [深度神经网络模型训练中的最新tricks总结【原理与代码汇总】](https://zhuanlan.zhihu.com/p/66080948)
+### Cross-validation
+[交叉驗證(Cross-validation, CV)](https://medium.com/@chih.sheng.huang821/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89-cross-validation-cv-3b2c714b18db)
+
+### Ensemble Learning
+[Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+
+[深度學習中的3個秘密：集成，知識蒸餾和蒸餾](https://zhuanlan.zhihu.com/p/348006186)
+
+[Ensemble Learning Techniques Tutorial](https://www.kaggle.com/pavansanagapati/ensemble-learning-techniques-tutorial#notebook-container)
+
+[Ensemble learning 與 Deep learning](https://chtseng.wordpress.com/2019/03/02/ensemble-learning-%E8%88%87-deep-learning/)
+#### Stacking
+[KFold tutorial](https://blog.csdn.net/kancy110/article/details/74910185)
+#### Voted
+### Test Time Augmentation (TTA)
+[Test Time Augmentation (TTA) ... worth it?](https://www.kaggle.com/andrewkh/test-time-augmentation-tta-worth-it)
+
 ### Noise Label
 [Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Label](https://arxiv.org/pdf/2012.04193.pdf)
 ### Train in Noise Labels
