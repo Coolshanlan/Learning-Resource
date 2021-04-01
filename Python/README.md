@@ -1,4 +1,17 @@
 # Python
+
+## Basic Python
+[NCU Programming for Deep Learning EE3054](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054)
+- [IPython](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_00_IPython.ipynb)
+- [DataTypes](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_01_DataTypes.ipynb)
+- [Numbers](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_02_Numbers.ipynb)
+- [TextStrings](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_03_TextStrings.ipynb)
+- [ChooseWithIF](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_04_ChooseWithIF.ipynb)
+- [LoopWithWhileFor](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_05_LoopWithWhileFor.ipynb)
+- [TuplesList](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_06_TuplesList.ipynb)
+- [DictionariesSets](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_07_DictionariesSets.ipynb)
+- [Functions](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_08_Functions.ipynb)
+- [ModulesPackages](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_09_ModulesPackages.ipynb)
 ## Numpy
 [Numpy cheatsheet](https://www.kaggle.com/nageshsingh/numpy-cheatsheet)
 
