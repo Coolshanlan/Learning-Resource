@@ -1,7 +1,14 @@
 # Data Pre-Processing
 ## Exploratory Data Analysis(EDA)
 [Automatic EDA Libraries Comparisson](https://www.kaggle.com/andreshg/automatic-eda-libraries-comparisson)
-## Text to Value
+## 文字資料轉換
+### 斷詞 Lib
+
+#### 中研院CKIP
+#### jiba
+
+### 轉vec
+
 ``` python
 from sklearn.preprocessing import LabelEncoder
 labelencoder = LabelEncoder()

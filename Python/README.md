@@ -61,3 +61,24 @@ _,_,autotexts=axis.pie(labeltotalvalues,labels=list(d_label.values()),autopct = 
 axis.axis('equal')
 fig.show()
 ```
+
+### Magic Methods
+```
+Magic methods for comparison
+
+__eq__(self, other): self == other
+__ne__(self, other): self != other
+__lt__(self, other): self < other
+__gt__(self, other): self > other
+__le__(self, other): self <= other
+__ge__(self, other): self >= other
+Magic methods for math
+
+__add__(self, other): self + other
+__sub__(self, other): self - other
+__mul__(self, other): self * other
+__floordiv__(self, other): self // other
+__truediv__(self, other): self / other
+__mod__(self, other): self % other
+__poe__(self, other): self ** other
+```

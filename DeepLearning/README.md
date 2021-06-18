@@ -25,6 +25,17 @@
 
 [Vision Transformer](https://zhuanlan.zhihu.com/p/273652295)
 
+## My Experience
+Step of solve some problem with deep learning
+- Clear Data
+- Exploratory Dana Analysis
+- Feature Engineering / Pre-process Data (enhance image etc.)
+- Use a Basic Model to **find learning rate**
+- Choice Model
+- Choice Loss function
+- Modify hyper-parameters
+- Post-process (confusion matrix, output distribution etc.)
+
 ## Model
 ### Base model
 #### RepVGG
@@ -88,6 +99,14 @@
 
 ### Label Smoothing
 ## Pytorch
+
+### Pay attention when you want to choose GPU devices
+You should pay attention on the order of import torch and setting GPU devices.<br> Setting GPU devices must before you import torch. Otherwise, it will not work.
+```python
+import os
+os.environ['CUDA_VISIBLE_DEVICES']='1'
+import torch
+```
 ### Seed setting
 [Source Code](https://www.kaggle.com/piantic/cnn-or-transformer-pytorch-xla-tpu-for-cassava?scriptVersionId=51538992)
 ```python
