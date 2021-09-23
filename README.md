@@ -113,6 +113,7 @@ Data Science大全，從Git、SQL、Excel、Algorithms...都有
 - [SIGAI- 知乎//各種人工智慧技術文章](https://zhuanlan.zhihu.com/c_201634018)
 - [Deep Learning for Computer Vision](https://dvl.in.tum.de/teaching/)
 ### Tensorflow
+- [Tensorflow 教學 +Code](https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese)
 - [Tensorflow2.0 最強教學！](https://zhuanlan.zhihu.com/c_109102186304362496)
 - [Tensorflow2.0 開源教學電子書](https://bangqu.com/6K13Q9.html)
 - [Tensorflow2.0 《30天吃掉那隻TensorFlow2.0 》最強教學！](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
