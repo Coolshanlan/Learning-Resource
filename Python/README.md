@@ -28,7 +28,7 @@ DataFrame.to_dict("records")
 ### DataFrame filter to select data
 ``` Python
 DataFrame[DataFrame["label"] == filtervalue]
-DataFrame[DataFrame["label"] == filtervalue].tolist()
+DataFrame.query("label" == filtervalue)
 ```
 
 ## Matplotlib
@@ -62,7 +62,7 @@ axis.axis('equal')
 fig.show()
 ```
 
-### Magic Methods
+## Magic Methods
 ```
 Magic methods for comparison
 

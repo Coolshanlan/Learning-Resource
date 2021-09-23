@@ -3,7 +3,11 @@
 [使用Pre-training的方法與時機](https://medium.com/%E8%BB%9F%E9%AB%94%E4%B9%8B%E5%BF%83/deep-learning-%E4%BD%BF%E7%94%A8pre-training%E7%9A%84%E6%96%B9%E6%B3%95%E8%88%87%E6%99%82%E6%A9%9F-b0ef14e777e9)
 
 [PyTorch Lightning 入坑心得](https://medium.com/%E6%95%B8%E5%AD%B8-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E8%88%87%E8%9F%92%E8%9B%87/pytorch-lightning-%E5%85%A5%E5%9D%91%E5%BF%83%E5%BE%97-81af12de9bb7)
+
+[Kaggle 14歲少年奪冠技巧](https://line.me/R/ti/g/jDwFMHl3op)
 ## 待讀
+[TabNet](https://zhuanlan.zhihu.com/p/351046092)
+[DeepInsight: Transforming Non-image data to Images for CNN Architectures](https://www.kaggle.com/markpeng/deepinsight-transforming-non-image-data-to-images)
 [2020年，那些「引爆」了ML社區的熱門論文、庫和基準](https://bangqu.com/5a9338.html)
 [提升Pytorch training 的17種方法](https://bangqu.com/q844ga.html)
 
@@ -54,7 +58,10 @@ Step of solve some problem with deep learning
     - [Resnet最強改版](https://blog.csdn.net/Irwin2020/article/details/113810809)
 #### GAN
 [PyTorch GAN example](https://github.com/eriklindernoren/PyTorch-GAN)
-
+#### LSTM(Pytorch)
+[輸出格式介紹](https://zhuanlan.zhihu.com/p/39191116)
+#### OCR
+https://zhuanlan.zhihu.com/p/54708641
 ## Enhance model
 ### Attention in CNN
 - [CBAM](https://zhuanlan.zhihu.com/p/96975064)
@@ -98,6 +105,9 @@ Step of solve some problem with deep learning
 ### Add Attention Block
 
 ### Label Smoothing
+
+### Gradient Accumulation
+[使用PyTorch實現梯度累加](https://www.cnblogs.com/sddai/p/14598018.html)
 ## Pytorch
 
 ### Pay attention when you want to choose GPU devices
@@ -139,6 +149,9 @@ seed_torch(seed=CFG.seed)
 ## Computer Vision
 ### Grad-CAM
 [打開黑盒子 Open Black Boxes 2: Grad-CAM](https://medium.com/jarvis-toward-intelligence/%E6%89%93%E9%96%8B%E9%BB%91%E7%9B%92%E5%AD%90-open-black-boxes-2-1ec6a313f5e9)
+
+### Model Explainer - Snap
+[GitHub](https://github.com/slundberg/shap)
 
 ## Kaggle Trick
 Install albumentations for image augmentations

@@ -1,5 +1,17 @@
 # Learning Source of Artificial Intelligence
 ## [Python](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python)
+- [Basic Python From EE3054](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054)
+
+  - [IPython](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_00_IPython.ipynb)
+  - [DataTypes](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_01_DataTypes.ipynb)
+  - [Numbers](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_02_Numbers.ipynb)
+  - [TextStrings](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_03_TextStrings.ipynb)
+  - [ChooseWithIF](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_04_ChooseWithIF.ipynb)
+  - [LoopWithWhileFor](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_05_LoopWithWhileFor.ipynb)
+  - [TuplesList](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_06_TuplesList.ipynb)
+  - [DictionariesSets](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_07_DictionariesSets.ipynb)
+  - [Functions](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_08_Functions.ipynb)
+  - [ModulesPackages](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_09_ModulesPackages.ipynb)
 - **Numpy**
   - tmp
 - **Pandas**
@@ -9,6 +21,7 @@
 - **Matplotlib**
   - subplots
   - pie plot
+- **Magic Python**
 ## [Deep Learning](https://github.com/Coolshanlan/Learning-Resource/tree/master/DeepLearning)
 - **Model**
   - Model Backbone
@@ -35,6 +48,7 @@
 - **Computer Vision**
   - Grad-CAM
 - **Kaggle Trick**
+  - albumentations
 - **Recommend Website**
 
 ## [Data Processing](https://github.com/Coolshanlan/Learning-Resource/tree/master/DataProcessing)
@@ -86,6 +100,7 @@ Data Science大全，從Git、SQL、Excel、Algorithms...都有
 ## Tutorial Website
 [吐血推薦，B站最強學習資源彙總（數據科學，機器學習，python）](https://bangqu.com/8me24e.html?fbclid=IwAR2ZHJHB6H3QSGNia6z1ty6ZCVEg0RRg4KRcIXnJ4c1uu6zoGOWoXQMiI4U)
 ### Deep Learning
+- [台大 李弘毅教授 網站](https://speech.ee.ntu.edu.tw/~hylee/index.html)
 - [**深度學習/機器學習 教學首推**](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
 
 - [台大深度學習教學](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
