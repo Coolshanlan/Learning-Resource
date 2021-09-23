@@ -1,4 +1,4 @@
-# Learning Source of Artificial Intelligence
+# Learning Resource of Artificial Intelligence
 ## [Python](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python)
 - [Basic Python From EE3054](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054)
 
