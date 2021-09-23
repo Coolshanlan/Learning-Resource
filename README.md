@@ -33,9 +33,11 @@
     - Spatial Pyramid Pooling (SPP Layer)
     - Feature fusion / Module fusion
 - **Training Trick**
+  - Cross-validation
+  - Ensemble Learning
+  - Test Time Augmentation
   - Noise Label
   - Training in Noise Labels
-  - Add Attention Layer
   - Label smoothing
 - **Pytorch**
   - Seed setting

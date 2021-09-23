@@ -92,9 +92,6 @@ https://zhuanlan.zhihu.com/p/54708641
 [Ensemble Learning Techniques Tutorial](https://www.kaggle.com/pavansanagapati/ensemble-learning-techniques-tutorial#notebook-container)
 
 [Ensemble learning 與 Deep learning](https://chtseng.wordpress.com/2019/03/02/ensemble-learning-%E8%88%87-deep-learning/)
-#### Stacking
-[KFold tutorial](https://blog.csdn.net/kancy110/article/details/74910185)
-#### Voted
 ### Test Time Augmentation (TTA)
 [Test Time Augmentation (TTA) ... worth it?](https://www.kaggle.com/andrewkh/test-time-augmentation-tta-worth-it)
 
@@ -102,15 +99,14 @@ https://zhuanlan.zhihu.com/p/54708641
 [Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Label](https://arxiv.org/pdf/2012.04193.pdf)
 ### Train in Noise Labels
 [Bi-Tempered Logistic Loss：將噪聲對訓練結果影響降到最低](https://www.linkresearcher.com/theses/fab3ac44-d2ed-48d6-8216-c7473764950f)
-### Add Attention Block
-
 ### Label Smoothing
+[Label Smoothing Explained](https://paperswithcode.com/method/label-smoothing)
 
 ### Gradient Accumulation
 [使用PyTorch實現梯度累加](https://www.cnblogs.com/sddai/p/14598018.html)
 ## Pytorch
 
-### Pay attention when you want to choose GPU devices
+### Pay attention when you want to choose GPU device
 You should pay attention on the order of import torch and setting GPU devices.<br> Setting GPU devices must before you import torch. Otherwise, it will not work.
 ```python
 import os
