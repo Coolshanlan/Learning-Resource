@@ -13,7 +13,7 @@
   - [Functions](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_08_Functions.ipynb)
   - [ModulesPackages](https://github.com/Coolshanlan/Learning-Resource/tree/master/Python/NCU%20Programming%20for%20Deep%20Learning%20EE3054/1092_PDL_09_ModulesPackages.ipynb)
 - **Numpy**
-  - tmp
+  - Numpy cheatsheet
 - **Pandas**
   - Dataframe shuffle
   - DataFrame to list of dictionary
