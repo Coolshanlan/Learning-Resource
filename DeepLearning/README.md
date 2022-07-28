@@ -135,6 +135,7 @@ seed_torch(seed=CFG.seed)
 - [EN- Faster Deep Learning Training with PyTorch – a 2021 Guide](https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/#1-consider-using-another-learning-rate-schedule)
 - [CN- Faster Deep Learning Training with PyTorch – a 2021 Guide](https://bangqu.com/q844ga.html)
 - [其他建議 推！](https://hackmd.io/@Hong-Jia/H1hmbNr1d)
+- autocast , amp 福點數精簡
 ### 分散式訓練(單機多卡)
 [【分佈式訓練】單機多卡的正確打開方式（三）](https://fyubang.com/2019/07/23/distributed-training3/)
 ### Learning Rate Scheduler
